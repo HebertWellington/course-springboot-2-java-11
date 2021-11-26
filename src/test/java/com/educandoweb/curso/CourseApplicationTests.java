@@ -1,10 +1,10 @@
 package com.educandoweb.curso;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursoApplicationTests {
+class CourseApplicationTests {
 
 	@Test
 	void contextLoads() {
